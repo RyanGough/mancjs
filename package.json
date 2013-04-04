@@ -1,0 +1,26 @@
+{
+  "name": "mancjs",
+  "version": "0.0.0",
+  "description": "mancjs test",
+  "main": "mancjs.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RyanGough/mancjs.git"
+  },
+  "keywords": [
+    "mancjs"
+  ],
+  "author": "Ryan Gough",
+  "license": "BSD",
+  "gitHead": "80820507634d2359862ed85ec514103399a1c825",
+  "dependencies": {
+    "request": "~2.16.6",
+    "cheerio": "~0.10.8"
+  }
+}
